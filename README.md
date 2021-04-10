@@ -1,2 +1,4 @@
-# TablEval (CS779 Project Repository)
-### Contributors: Vijit Malik (170791), Vishesh Kaushi (170805), Aditya Jindal (170048)
+# BreakingBERT@IITK at SemEval-2021
+
+Task 9 : Statement Verification and Evidence Finding with Tables
+
