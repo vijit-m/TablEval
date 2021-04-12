@@ -49,10 +49,9 @@ Use the following code to perform entity linking on raw dataset.
 ```sh
 !python preprocess_data.py
 ```
-**Tokenization** was performed on the preprocess data.
+Tokenization was performed on the preprocess data.
 ```sh
 !python preprocess_BERT.py --scan horizontal
-
 ```
 
 **Preprocessing for TAPAS**
