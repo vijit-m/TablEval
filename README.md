@@ -64,9 +64,9 @@ Training the model on train.tsv and dev.tsv fle.
 ```
 
 # Tapas
-
+For this download the tapas code in the Code Folder and follow the Tapas Collab. Since the Model is quite big, the finetuned model is privately stored in the Google cloud.
 # Heuristic
-
+Tapas using Table Pruning to handle Large Tables and large statements.
 
 # How to cite
 You can cite our ACML 2021 [paper](https://arxiv.org/abs/2104.03071) for the latest work on table based statement verification.
