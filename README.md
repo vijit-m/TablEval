@@ -19,6 +19,12 @@ to solve evidence finding as a form of the Natural Language Inference task. We o
 way F1 score of 0.69 on subtask A and an F1
 score of 0.65 on subtask B.
 
+
+Subtask 1: 2 way Classification of the statements as Entailed and Refuted and 3 way Classification of the statements as Entailed, Refuted and Unknown
+
+Subtask 2: Classifying the Cells as the Relevant and Irrelevant
+            
+           
 # Corpus Description
 
 The corpus has two versions of training data:
