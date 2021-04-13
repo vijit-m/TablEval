@@ -62,6 +62,8 @@ Tokenization was performed on the preprocess data.
 
 **Preprocessing for TAPAS**
 
+Same as that of TableBERT.
+
 # TableSciBERT
 
 Training the model on train.tsv and dev.tsv fle.
