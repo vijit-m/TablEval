@@ -72,7 +72,12 @@ Training the model on train.tsv and dev.tsv fle.
 ```
 
 # Tapas
-For this download the tapas code in the Code Folder and follow the Tapas Collab. Since the Model is quite big, the finetuned model is privately stored in the Google cloud.
+For this download the tapas code from its main repository and follow the tapas collab.
+```sh
+!git clone https://github.com/google-research/tapas
+```
+
+Since the Model is quite big, the finetuned model is privately stored in the Google cloud.
 # Heuristic
 Tapas using Table Pruning to handle Large Tables and large statements.
 
