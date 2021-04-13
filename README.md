@@ -81,6 +81,9 @@ Since the Model is quite big, the finetuned model is privately stored in the Goo
 # Heuristic
 Tapas using Table Pruning to handle Large Tables and large statements.
 
+# CellBERT
+Train CellBERT using CellBERT_train.py and evaluate using CellBERT_eval.py
+
 # How to cite
 You can cite our ACML 2021 [paper](https://arxiv.org/abs/2104.03071) for the latest work on table based statement verification.
 
